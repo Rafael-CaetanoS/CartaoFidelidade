@@ -10,19 +10,20 @@ public class SolicitacaoRepository : ISolicitacaoRepository
     {
         _context = context;
     }
-    public Task CreateSolicitacao(Guid clienteId, Guid lojaId)
+    public async Task CreateSolicitacao(Solicitacao solicitacao)
     {
-        throw new NotImplementedException();
+        _context.add(solicitacao);
+        await _context.SaveChangesAsync();
     }
 
-    public Task<Solicitacao> GetSolicitacaoByIdAsync(int id)
+    public async Task<Solicitacao> GetSolicitacaoByIdAsync(int id)
     {
-        throw new NotImplementedException();
+        return await _context.Solicitacoes.FindAsync(id);
     }
 
-    public Task<IEnumerable<Solicitacao>> GetSolicitacoesAsync()
+    public async Task<IEnumerable<Solicitacao>> GetSolicitacoesAsync()
     {
-        throw new NotImplementedException();
+        return await _context.Solicitacoes.ToListAsync();
     }
 
     public Task UpdateSolicitacao(int solicitacaoId)
