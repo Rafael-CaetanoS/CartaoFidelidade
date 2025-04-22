@@ -1,0 +1,11 @@
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Domain\bin\Debug\net8.0\CartaoFidelidade.Domain.deps.json
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Domain\bin\Debug\net8.0\CartaoFidelidade.Domain.dll
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Domain\bin\Debug\net8.0\CartaoFidelidade.Domain.pdb
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\CartaoFidelidade.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\CartaoFidelidade.Domain.AssemblyInfoInputs.cache
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\CartaoFidelidade.Domain.AssemblyInfo.cs
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\CartaoFidelidade.Domain.csproj.CoreCompileInputs.cache
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\CartaoFidelidade.Domain.dll
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\refint\CartaoFidelidade.Domain.dll
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\CartaoFidelidade.Domain.pdb
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\ref\CartaoFidelidade.Domain.dll

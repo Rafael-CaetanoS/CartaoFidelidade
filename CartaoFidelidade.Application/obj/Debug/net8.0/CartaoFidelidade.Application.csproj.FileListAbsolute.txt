@@ -1,0 +1,15 @@
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Application\bin\Debug\net8.0\CartaoFidelidade.Application.deps.json
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Application\bin\Debug\net8.0\CartaoFidelidade.Application.dll
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Application\bin\Debug\net8.0\CartaoFidelidade.Application.pdb
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Application\bin\Debug\net8.0\CartaoFidelidade.Domain.dll
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Application\bin\Debug\net8.0\CartaoFidelidade.Domain.pdb
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Application\obj\Debug\net8.0\CartaoFidelidade.Application.csproj.AssemblyReference.cache
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Application\obj\Debug\net8.0\CartaoFidelidade.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Application\obj\Debug\net8.0\CartaoFidelidade.Application.AssemblyInfoInputs.cache
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Application\obj\Debug\net8.0\CartaoFidelidade.Application.AssemblyInfo.cs
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Application\obj\Debug\net8.0\CartaoFidelidade.Application.csproj.CoreCompileInputs.cache
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Application\obj\Debug\net8.0\CartaoFi.627AEF5E.Up2Date
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Application\obj\Debug\net8.0\CartaoFidelidade.Application.dll
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Application\obj\Debug\net8.0\refint\CartaoFidelidade.Application.dll
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Application\obj\Debug\net8.0\CartaoFidelidade.Application.pdb
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Application\obj\Debug\net8.0\ref\CartaoFidelidade.Application.dll

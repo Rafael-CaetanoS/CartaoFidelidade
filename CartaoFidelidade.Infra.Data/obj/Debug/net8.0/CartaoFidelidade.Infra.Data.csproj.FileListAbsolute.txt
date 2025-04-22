@@ -1,0 +1,17 @@
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\bin\Debug\net8.0\CartaoFidelidade.Infra.Data.deps.json
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\bin\Debug\net8.0\CartaoFidelidade.Infra.Data.runtimeconfig.json
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\bin\Debug\net8.0\CartaoFidelidade.Infra.Data.dll
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\bin\Debug\net8.0\CartaoFidelidade.Infra.Data.pdb
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\bin\Debug\net8.0\CartaoFidelidade.Domain.dll
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\bin\Debug\net8.0\CartaoFidelidade.Domain.pdb
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\CartaoFidelidade.Infra.Data.csproj.AssemblyReference.cache
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\CartaoFidelidade.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\CartaoFidelidade.Infra.Data.AssemblyInfoInputs.cache
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\CartaoFidelidade.Infra.Data.AssemblyInfo.cs
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\CartaoFidelidade.Infra.Data.csproj.CoreCompileInputs.cache
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\CartaoFi.B2F1295D.Up2Date
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\CartaoFidelidade.Infra.Data.dll
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\refint\CartaoFidelidade.Infra.Data.dll
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\CartaoFidelidade.Infra.Data.pdb
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\CartaoFidelidade.Infra.Data.genruntimeconfig.cache
+C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\ref\CartaoFidelidade.Infra.Data.dll
