@@ -9,3 +9,15 @@ C:\repositorios\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\Cartao
 C:\repositorios\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\refint\CartaoFidelidade.Domain.dll
 C:\repositorios\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\CartaoFidelidade.Domain.pdb
 C:\repositorios\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\ref\CartaoFidelidade.Domain.dll
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Domain\bin\Debug\net8.0\CartaoFidelidade.Domain.deps.json
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Domain\bin\Debug\net8.0\CartaoFidelidade.Domain.dll
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Domain\bin\Debug\net8.0\CartaoFidelidade.Domain.pdb
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\CartaoFidelidade.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\CartaoFidelidade.Domain.AssemblyInfoInputs.cache
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\CartaoFidelidade.Domain.AssemblyInfo.cs
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\CartaoFidelidade.Domain.csproj.CoreCompileInputs.cache
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\CartaoFidelidade.Domain.sourcelink.json
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\CartaoFidelidade.Domain.dll
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\refint\CartaoFidelidade.Domain.dll
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\CartaoFidelidade.Domain.pdb
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Domain\obj\Debug\net8.0\ref\CartaoFidelidade.Domain.dll

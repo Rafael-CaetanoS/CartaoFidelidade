@@ -15,3 +15,12 @@ C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\re
 C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\CartaoFidelidade.Infra.Data.pdb
 C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\CartaoFidelidade.Infra.Data.genruntimeconfig.cache
 C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\ref\CartaoFidelidade.Infra.Data.dll
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\CartaoFidelidade.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\CartaoFidelidade.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\CartaoFidelidade.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\CartaoFidelidade.Infra.Data.AssemblyInfo.cs
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\CartaoFidelidade.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\CartaoFidelidade.Infra.Data.sourcelink.json
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\CartaoFidelidade.Infra.Data.dll
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\refint\CartaoFidelidade.Infra.Data.dll
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Infra.Data\obj\Debug\net8.0\CartaoFidelidade.Infra.Data.pdb

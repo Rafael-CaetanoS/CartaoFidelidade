@@ -19,3 +19,6 @@ C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.IoC\obj\Debug\net8.0\ref
 C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.IoC\obj\Debug\net8.0\CartaoFidelidade.Infra.IoC.pdb
 C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.IoC\obj\Debug\net8.0\CartaoFidelidade.Infra.IoC.genruntimeconfig.cache
 C:\repositorios\CartaoFidelidade\CartaoFidelidade.Infra.IoC\obj\Debug\net8.0\ref\CartaoFidelidade.Infra.IoC.dll
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Infra.IoC\obj\Debug\net8.0\CartaoFidelidade.Infra.IoC.dll
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Infra.IoC\obj\Debug\net8.0\refint\CartaoFidelidade.Infra.IoC.dll
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.Infra.IoC\obj\Debug\net8.0\CartaoFidelidade.Infra.IoC.pdb

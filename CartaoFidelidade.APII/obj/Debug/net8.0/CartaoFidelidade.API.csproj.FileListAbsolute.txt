@@ -148,3 +148,6 @@ C:\repositorios\CartaoFidelidade\CartaoFidelidade.APII\obj\Debug\net8.0\CartaoFi
 C:\repositorios\CartaoFidelidade\CartaoFidelidade.APII\obj\Debug\net8.0\ref\CartaoFidelidade.API.dll
 C:\repositorios\CartaoFidelidade\CartaoFidelidade.APII\bin\Debug\net8.0\Castle.Core.dll
 C:\repositorios\CartaoFidelidade\CartaoFidelidade.APII\bin\Debug\net8.0\Moq.dll
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.APII\obj\Debug\net8.0\CartaoFidelidade.API.dll
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.APII\obj\Debug\net8.0\refint\CartaoFidelidade.API.dll
+C:\Users\RafaelCaetanoSilva\Documents\Repositorios\cartaoFidelidade\CartaoFidelidade\CartaoFidelidade.APII\obj\Debug\net8.0\CartaoFidelidade.API.pdb

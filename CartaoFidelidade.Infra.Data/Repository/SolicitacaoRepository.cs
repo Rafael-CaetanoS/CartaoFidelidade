@@ -1,5 +1,6 @@
 ﻿using CartaoFidelidade.Domain.Solicitacoes;
 using CartaoFidelidade.Infra.Data.Context;
+using Microsoft.EntityFrameworkCore;
 
 namespace CartaoFidelidade.Infra.Data.Repository;
 
@@ -12,7 +13,7 @@ public class SolicitacaoRepository : ISolicitacaoRepository
     }
     public async Task CreateSolicitacao(Solicitacao solicitacao)
     {
-        _context.add(solicitacao);
+        _context.Add(solicitacao);
         await _context.SaveChangesAsync();
     }
 

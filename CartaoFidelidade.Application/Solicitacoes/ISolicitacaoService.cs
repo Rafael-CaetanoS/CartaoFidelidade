@@ -4,8 +4,8 @@ namespace CartaoFidelidade.Application.Solicitacoes;
 
 public interface ISolicitacaoService
 {
-    Task<IEnumerable<Solicitacao>> GetSolicitacoesAsync();
-    Task<Solicitacao> GetSolicitacaoByIdAsync(int id);
-    Task CreateSolicitacao(Guid clienteId, Guid lojaId);
+    Task<IEnumerable<SolicitacaoDTO>> GetSolicitacoesAsync();
+    Task<SolicitacaoDTO> GetSolicitacaoByIdAsync(int id);
+    Task CreateSolicitacao(SolicitacaoDTO solicitacaoDTO);
     Task UpdateSolicitacao(int solicitacaoId);
 }

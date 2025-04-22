@@ -7,19 +7,29 @@ public class SolicitacaoService : ISolicitacaoService
 {
     private readonly ISolicitacaoRepository _solicitacaoRepository;
     private readonly IMapper _mapper;
-    public Task CreateSolicitacao(Guid clienteId, Guid lojaId)
+
+    public SolicitacaoService(ISolicitacaoRepository solicitacaoRepository, IMapper mapper)
     {
-        throw new NotImplementedException();
+        _solicitacaoRepository = solicitacaoRepository;
+        _mapper = mapper;
     }
 
-    public Task<Solicitacao> GetSolicitacaoByIdAsync(int id)
+    public async Task CreateSolicitacao(SolicitacaoDTO solicitacaoDTO)
     {
-        throw new NotImplementedException();
+       var solicitacaoEntity = _mapper.Map<Solicitacao>(solicitacaoDTO);
+       await _solicitacaoRepository.CreateSolicitacao(solicitacaoEntity);
     }
 
-    public Task<IEnumerable<Solicitacao>> GetSolicitacoesAsync()
+    public async Task<SolicitacaoDTO> GetSolicitacaoByIdAsync(int id)
     {
-        throw new NotImplementedException();
+       var solicitacaoEntity = await _solicitacaoRepository.GetSolicitacaoByIdAsync(id);
+       return _mapper.Map<SolicitacaoDTO>(solicitacaoEntity);
+    }
+
+    public async Task<IEnumerable<SolicitacaoDTO>> GetSolicitacoesAsync()
+    {
+       var solicitacoesEntities = await _solicitacaoRepository.GetSolicitacoesAsync();
+       return _mapper.Map<IEnumerable<SolicitacaoDTO>>(solicitacoesEntities);
     }
 
     public Task UpdateSolicitacao(int solicitacaoId)
