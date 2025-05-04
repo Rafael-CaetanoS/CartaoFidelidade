@@ -1,5 +1,6 @@
 ﻿using CartaoFidelidade.Domain.Clientes;
 using CartaoFidelidade.Domain.Lojas;
+using CartaoFidelidade.Domain.SolicitacaoCupons;
 
 namespace CartaoFidelidade.Domain.Cupons;
 
@@ -12,6 +13,7 @@ public class Cupom
     public Loja loja { get; set; }
     public Guid clienteId { get; set; }
     public Cliente cliente { get; set; }
+    public ICollection<SolicitacaoCupom> CupomSolicitacaos { get; set; }
 
     public Cupom()
     {}
