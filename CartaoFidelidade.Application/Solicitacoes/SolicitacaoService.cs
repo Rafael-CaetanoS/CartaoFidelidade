@@ -12,19 +12,20 @@ public class SolicitacaoService : ISolicitacaoService
     private readonly IMapper _mapper;
     private readonly ICupomService _cupomService;
     private readonly ISolicitacaoCupomService _SolicitacaoCupomService;
-    public SolicitacaoService(ISolicitacaoRepository solicitacaoRepository, IMapper mapper, ICupomService cupomService)
+    public SolicitacaoService(ISolicitacaoRepository solicitacaoRepository, IMapper mapper, ICupomService cupomService, ISolicitacaoCupomService solicitacaoCupom)
     {
         _solicitacaoRepository = solicitacaoRepository;
         _mapper = mapper;
         _cupomService = cupomService;
+        _SolicitacaoCupomService = solicitacaoCupom;
     }
 
     public async Task CreateSolicitacao(SolicitacaoDTO solicitacaoDTO)
     {
         var quatindadeCupons = await _cupomService.GetCuponsByClienteIdByLojaId(solicitacaoDTO.ClienteId, solicitacaoDTO.LojaId);
-        if(quatindadeCupons == null || quatindadeCupons.Count() < 10)
+        if(quatindadeCupons == null || quatindadeCupons.Count() < 2)
         {
-            return;
+            throw new Exception("cupons insuficientes");
         }
         var solicitacaoEntity = _mapper.Map<Solicitacao>(solicitacaoDTO);
         await _solicitacaoRepository.CreateSolicitacao(solicitacaoEntity);
@@ -52,7 +53,7 @@ public class SolicitacaoService : ISolicitacaoService
     {
         foreach (var cupom in cupons)
         {
-            SolicitacaoCupom solicitacaoCupom = new SolicitacaoCupom(cupom.Id, solicitacaoId);
+            var solicitacaoCupom = new SolicitacaoCupom(cupom.Id, solicitacaoId);
             _SolicitacaoCupomService.createCupomSolicitacaoAsync(solicitacaoCupom);
         }
     }

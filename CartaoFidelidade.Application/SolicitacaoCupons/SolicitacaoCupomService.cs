@@ -16,5 +16,4 @@ public class SolicitacaoCupomService : ISolicitacaoCupomService
     {
        await _repository.createCupomSolicitacaoAsync(cupomSolicitacao);
     }
-
 }
